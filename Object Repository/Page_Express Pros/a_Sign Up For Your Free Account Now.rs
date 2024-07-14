@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Sign Up For Your Free Account Now</name>
+   <tag></tag>
+   <elementGuidId>66dfcc91-82da-48af-b428-e328b1786a6e</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//section[@id='New']/div/a</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>a.btn.btn-lg.btn-success.btn-block</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>7e3c6522-77a5-4017-9fc5-d182c41c0237</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>btn btn-lg btn-success btn-block</value>
+      <webElementGuid>e0be718e-b617-4897-8d34-9b10f6862074</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>/Account/Register</value>
+      <webElementGuid>e8b42c4b-a611-4043-87b3-d3cdad56dbb5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Sign Up For Your Free Account Now</value>
+      <webElementGuid>76ad2e81-6d1d-43cf-9742-6137612243d9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;New&quot;)/div[@class=&quot;form-group&quot;]/a[@class=&quot;btn btn-lg btn-success btn-block&quot;]</value>
+      <webElementGuid>1ddd0fc2-baa8-4c32-bd39-e295fbf480d5</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//section[@id='New']/div/a</value>
+      <webElementGuid>f25f83e1-03b4-4b65-b875-67ea59f18de6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'Sign Up For Your Free Account Now')]</value>
+      <webElementGuid>9872e053-643a-4a33-a913-11faaefd2063</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Sign in with Apple'])[1]/following::a[1]</value>
+      <webElementGuid>43bcb7d3-2866-468a-a571-aeda7e733eb4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Job Seekers'])[3]/preceding::a[7]</value>
+      <webElementGuid>af486eec-5709-4c40-95c6-3f5ea40ac9bd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Search Jobs'])[2]/preceding::a[8]</value>
+      <webElementGuid>f23c3f29-42a2-4a3a-af62-3b931f9f7e13</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Sign Up For Your Free Account Now']/parent::*</value>
+      <webElementGuid>3f986f84-2f50-4476-91ff-f84f327fba44</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, '/Account/Register')]</value>
+      <webElementGuid>8edf9784-a9fa-4289-b0d2-bfe8a201c857</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//section/div/a</value>
+      <webElementGuid>6bf42a75-1ac2-4662-b925-197a827dd9b6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = '/Account/Register' and (text() = 'Sign Up For Your Free Account Now' or . = 'Sign Up For Your Free Account Now')]</value>
+      <webElementGuid>4e8158f3-c64d-4986-b9ef-6744832beeac</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Verify that user is able to fill the form</description>
+   <name>RegisterForNewAccount</name>
+   <tag>RegisterForNewAccount</tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>8e6b8f95-fcc7-4462-a534-f986fb9bb8af</testCaseGuid>
+</TestCaseEntity>

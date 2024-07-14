@@ -1,0 +1,176 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>select_Select your country                 _3db57c</name>
+   <tag></tag>
+   <elementGuidId>6381248b-b623-4894-92ba-af089cae19e1</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//select[@id='Country']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#Country</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>select</value>
+      <webElementGuid>051f8911-e76a-4300-8453-d4ba51317069</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>form-control</value>
+      <webElementGuid>9ae95440-76fd-498a-8978-0d4cd6a2185c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-val</name>
+      <type>Main</type>
+      <value>true</value>
+      <webElementGuid>1297b15a-d2cb-47f5-bbbe-a49091203cb0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-val-range</name>
+      <type>Main</type>
+      <value>Please select your country.</value>
+      <webElementGuid>704084d8-70f4-439b-9307-08269a795485</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-val-range-max</name>
+      <type>Main</type>
+      <value>100</value>
+      <webElementGuid>6464e3d2-f16f-44d0-8dfa-d312dc7b0c56</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-val-range-min</name>
+      <type>Main</type>
+      <value>1</value>
+      <webElementGuid>acde3058-e28d-4387-a2e6-14a93056b9cf</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-val-required</name>
+      <type>Main</type>
+      <value>Please select your country.</value>
+      <webElementGuid>987eba78-a581-4c69-ac8f-6a182c7193fa</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>Country</value>
+      <webElementGuid>ec9729e4-4a71-4046-a9e4-059286c91d36</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>name</name>
+      <type>Main</type>
+      <value>Country</value>
+      <webElementGuid>75e4121f-5fcb-4aed-aacb-db7db488479a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>
+                    Select your country
+                    United States of America
+                    Canada
+                </value>
+      <webElementGuid>fb170e48-edb0-40b9-a500-354d63bf5317</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;Country&quot;)</value>
+      <webElementGuid>504e37d7-7933-4ae6-84fe-41c7d977f4e7</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//select[@id='Country']</value>
+      <webElementGuid>6f57d0e7-cb1a-43e4-8014-d6d5f439f4e1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='renderedBody']/form/div[5]/div/div/select</value>
+      <webElementGuid>9c710187-5809-445d-9f50-d641a372df57</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Seeking Work In'])[1]/following::select[1]</value>
+      <webElementGuid>8bdb47f8-f7f2-4c65-8c46-25d2181a7e89</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Confirm Password'])[1]/following::select[1]</value>
+      <webElementGuid>1e1ee154-dabe-4462-aaef-a08708b3d4e8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='End User License Agreement'])[1]/preceding::select[1]</value>
+      <webElementGuid>455801c9-27a3-41d2-8341-06adc7076b0e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//select</value>
+      <webElementGuid>f13cdc27-1b57-46be-846f-e14efaa79e70</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//select[@id = 'Country' and @name = 'Country' and (text() = '
+                    Select your country
+                    United States of America
+                    Canada
+                ' or . = '
+                    Select your country
+                    United States of America
+                    Canada
+                ')]</value>
+      <webElementGuid>31eb857d-46a1-4451-bc4c-b399116ace26</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

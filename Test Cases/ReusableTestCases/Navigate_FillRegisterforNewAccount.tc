@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Navigate_FillRegisterforNewAccount</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>6fcf476b-ffca-4224-b4cd-209953d4f4f1</testCaseGuid>
+</TestCaseEntity>

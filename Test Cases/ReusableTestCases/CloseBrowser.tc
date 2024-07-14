@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Close the browser</description>
+   <name>CloseBrowser</name>
+   <tag>CloseBrowser</tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>f723a582-5c75-44f3-bc44-da9d4461f392</testCaseGuid>
+</TestCaseEntity>

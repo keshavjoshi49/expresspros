@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>To Open a browser and maximize</description>
+   <name>OpenBrowser</name>
+   <tag>OpenBrowser</tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>dda44d41-c252-49ef-b29e-b6568d2e97b4</testCaseGuid>
+</TestCaseEntity>
