@@ -21,14 +21,17 @@ WebUI.navigateToUrl('https://accounts.expresspros.com/Account/Login')
 
 WebUI.click(findTestObject('Object Repository/Page_Express Pros/a_Sign Up For Your Free Account Now'))
 
+WebUI.callTestCase(findTestCase('ReusableTestCases/DynamicData'), [:], FailureHandling.STOP_ON_FAILURE)
+
 WebUI.setText(findTestObject('Object Repository/Page_Register for a New Account/input_First Name_FirstName'), 'AutoTestFirstName')
 
 WebUI.setText(findTestObject('Object Repository/Page_Register for a New Account/input_Last Name_LastName'), 'AutoTestLastName')
 
 WebUI.setText(findTestObject('Object Repository/Page_Register for a New Account/input_Email  (Used as Username)_Email'), 
-    'AutoTest@dummyemail.com')
+    ('AutoTest' + GlobalVariable.onboardemail) + '@dummyemail.com')
 
-WebUI.setText(findTestObject('Object Repository/Page_Register for a New Account/input_Confirm Email_ConfirmEmail'), 'AutoTest@dummyemail.com')
+WebUI.setText(findTestObject('Object Repository/Page_Register for a New Account/input_Confirm Email_ConfirmEmail'), ('AutoTest' + 
+    GlobalVariable.onboardemail) + '@dummyemail.com')
 
 WebUI.setEncryptedText(findTestObject('Object Repository/Page_Register for a New Account/input_Password_Password'), 'c55C17TkPU0MbzPUGtg18A==')
 
