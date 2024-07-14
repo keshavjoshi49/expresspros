@@ -17,7 +17,7 @@ import com.kms.katalon.core.windows.keyword.WindowsBuiltinKeywords as Windows
 import internal.GlobalVariable as GlobalVariable
 import org.openqa.selenium.Keys as Keys
 
-WebUI.navigateToUrl('https://accounts.expresspros.com/Account/Login')
+WebUI.navigateToUrl(findTestData('Environments').getValue(2, 1))
 
 WebUI.click(findTestObject('Object Repository/Page_Express Pros/a_Sign Up For Your Free Account Now'))
 
